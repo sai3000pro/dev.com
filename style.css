@@ -13,11 +13,11 @@ body {
 
 h1 {
   font-size: 5rem;
+  text-align: left;
 }
 
 span {
   color: rgb(31, 31, 165);
-  font-size: 5rem;
   font-weight: bold;
 }
 
@@ -27,7 +27,7 @@ footer {
 }
 
 .tile-image {
-  height: 300px;
+  height: 250px;
   margin-right: 50px;  
   float: left;
 }
