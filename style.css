@@ -11,18 +11,6 @@ body {
   flex: 1;
 }
 
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
-
-.card {
-  width: 45%;
-}
-
 h1 {
   font-size: 5rem;
 }
@@ -38,11 +26,22 @@ footer {
   color: midnightblue;
 }
 
+.tile-image {
+  height: 300px;
+  margin-right: 50px;  
+  float: left;
+}
 
-.title-image {
-  width: 30%;
-  height: 20%;
-  margin-right: 10%;  
+.card {
+  width: 45%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
 }
 
 
